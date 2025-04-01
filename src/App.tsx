@@ -17,7 +17,7 @@ function App() {
         Keep dreaming, You FOol  🎉
         </h1>
 <div className="max-w-sm w-full aspect-[9/16] rounded-lg overflow-hidden shadow-xl">
-          <video autoPlay muted loop className="w-full h-full object-cover">
+          <video autoPlay autoPlay loop className="w-full h-full object-cover">
             <source src="./Meow.mp4" type="video/mp4" />
           </video>
         </div>
