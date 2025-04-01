@@ -24,6 +24,10 @@ function App() {
         <p className="text-2xl text-white mt-8 text-center">
            April Fools, {name}! 😄
         </p>
+
+        <footer className="text-white mt-10 text-sm">
+          Developed by <span className="font-bold">ADN</span>
+        </footer>
         
       </div>
     );
